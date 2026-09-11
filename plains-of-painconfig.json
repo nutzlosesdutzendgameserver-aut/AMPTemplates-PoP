@@ -143,5 +143,21 @@
             "False": "",
             "True": "-cc "
         }
+    },
+    {
+    "DisplayName": "Admin Account IDs",
+    "Category": "Plains of Pain:stadia_controller",
+    "Subcategory": "Server:dns:1",
+    "Description": "Steam Account IDs that are granted administrator permissions.",
+    "Keywords": "admin,administrator,steam,account",
+    "FieldName": "adminAccountIDs",
+    "InputType": "text",
+    "ParamFieldName": "adminAccountIDs",
+    "IncludeInCommandLine": true,
+    "SkipIfEmpty": true,
+    "DefaultValue": "",
+    "Placeholder": "123456789",
+    "Suffix": "",
+    "EnumValues": {}
     }
 ]
